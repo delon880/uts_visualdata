@@ -64,4 +64,4 @@ Disarankan menggunakan Python 3.10 atau lebih baru.
 - Angka harga menggunakan mata uang sebagaimana tercatat dalam dataset (umumnya USD pada sumber).
 
 ## Identitas mahasiswa
-Lengkapi nama, NPM, kelas, dan dosen pada bagian ini sebelum pengumpulan.
+Dionisius Dave Toar Abuthan / 241051023 / UTS VISUAL DATA
