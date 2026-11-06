@@ -2,7 +2,7 @@
 
 **Nama:** [Dionisius Dave Abuthan]
 **NIM:** [241051023]
-**Mata Kuliah:** [Nama Mata Kuliah / Tugas]
+**Mata Kuliah:** [VISUAL DATA / UTS]
 
 ---
 
